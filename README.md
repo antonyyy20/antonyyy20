@@ -1,15 +1,8 @@
 <div align="center">
   <h1>👋 Hola, soy Manuel Guillén</h1>
   <h3>Ingeniero de Software | AI-First Builder | Creador de Contenido</h3>
-  <p>Construyendo Micro-SaaS y sistemas autónomos a la velocidad del pensamiento ⚡</p>
 </div>
 
----
-
-### 🚀 Sobre Mí
-- 👨‍💻 **Construyendo en Público:** Documentando el reto *"Construyendo una empresa de un millón de centavos"* en formato vlog.
-- 🎓 **Educación:** Estudiante de Ingeniería de Software en la Universidad Tecnológica de Panamá (UTP)[cite: 1].
-- 🏫 **Comunidad:** Diseñando ecosistemas educativos (vía Skool) para enseñar construcción con IA y automatización.
 
 ### 🛠️ Mi Stack Técnico
 <div align="center">
@@ -22,20 +15,6 @@
   <img src="https://img.shields.io/badge/Polar.sh-0000FF?style=for-the-badge&logo=polar&logoColor=white" />
 </div>
 
-<br>
-
-### 🏗️ Lo que estoy construyendo
-
-#### ⚡ TunderClw (OpenClaw)
-Un asistente de IA personal impulsado por OpenClaw que trabaja 24/7, sin necesidad de configuración inicial. Está diseñado para responder a clientes, organizar tareas, investigar y automatizar trabajo repetitivo directamente desde WhatsApp, Telegram o un subdominio propio.
-
-#### 🧠 DoctorMind *(Proyecto Pasado)*
-Construí un agente de IA especializado en medicina que organizaba, investigaba y sintetizaba información médica desde fuentes verificadas[cite: 1]. Completé el programa de incubación de Ciudad del Saber con este proyecto, refinando su product-market fit y arquitectura[cite: 1].
-
-#### 🚀 Nebulabs
-Agencia de desarrollo web y software donde gestionaba el ciclo completo de los proyectos, entregando soluciones personalizadas y operando en entornos de alta incertidumbre[cite: 1].
-
-<br>
 
 ### 📫 Mis Redes y Contacto
 <div align="center">
