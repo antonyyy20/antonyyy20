@@ -1,30 +1,3 @@
-
-Conversación con Gemini
-créame un readme atrativo visual para GitHub basado en mi curriculum
-Tu archivo Markdown (MD) está listo.
-Ícono de MD
-README
- MD 
-Abrir
-He diseñado un archivo README.md visualmente atractivo utilizando la información de tu currículum. El documento está estructurado para resaltar tu perfil como Ingeniero de Software Full-Stack y Fundador.  
-PDF
-+ 1
-Aquí tienes un resumen de lo que incluye el archivo:
-Encabezado interactivo: Cuenta con insignias (badges) de contacto enlazadas a tu perfil de LinkedIn y tu correo electrónico.  
-PDF
-Sección "Sobre mí": Resume de forma directa tu educación en la UTP, tu enfoque en desarrollo de productos de inicio a fin, y tus logros clave como el Hackathon Copa Reto Linux y el Hackathon ICCA.  
-PDF
-+ 2
-Tech Stack visual: Todas tus habilidades técnicas (React, Next.js, Node.js, LangChain, etc.) están agrupadas por categoría (Frontend/Mobile, Backend, IA/Datos) usando insignias coloridas de Shields.io para que resalten a simple vista.  
-PDF
-Experiencia destacada: Muestra tus roles actuales como Co-Fundador en DoctorMind y Fundador en Nebulabs.  
-PDF
-Estadísticas de GitHub: Al final, agregué dos tarjetas dinámicas para mostrar tus estadísticas y racha de commits.
-Nota importante: En el archivo generado, asegúrate de reemplazar el texto TU_USUARIO_AQUI en los enlaces de las imágenes de las tarjetas del final por tu nombre de usuario real de GitHub para que las métricas carguen correctamente.
-
-
-Gemini es una IA y puede cometer errores.
-
 <h1 align="center">Hola, soy Manuel Guillén 👋</h1>
 <h3 align="center">Ingeniero de Software Full-Stack & Fundador 🚀</h3>
 
