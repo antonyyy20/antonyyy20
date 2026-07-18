@@ -15,7 +15,6 @@
 ### 👨‍💻 Sobre mí
 
 Ingeniero de Software Full-Stack con experiencia práctica identificando problemas reales y construyendo soluciones tecnológicas que generan impacto medible. 
-- 🚀 **Construyendo:** Co-Fundador e Ingeniero de Software en **DoctorMind** (Agente de IA médica) y Fundador de **Nebulabs**.
 - 🎓 **Educación:** Licenciatura en Ingeniería de Software en la Universidad Tecnológica de Panamá (UTP) - *Capítulo de Honor*.
 - 💡 **Enfoque:** Liderar el desarrollo de productos de inicio a fin en entornos de alta incertidumbre y recursos limitados.
 - 🏆 **Logros Destacados:** 
@@ -69,13 +68,10 @@ Ingeniero de Software Full-Stack con experiencia práctica identificando problem
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=antonyyy20&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUI&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antonyyy20&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-*(Nota: Asegúrate de cambiar `TU_USUARIO_AQUI` por tu nombre de usuario real de GitHub para que las tarjetas de estadísticas funcionen)*
 
-README.md
-Mostrando README.md.
